@@ -1,0 +1,14 @@
+.highlight {
+    background-color: yellow;
+}
+#results {
+    margin-top: 20px;
+}
+.pagination {
+    margin-top: 20px;
+}
+.pagination button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
